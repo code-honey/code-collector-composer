@@ -1,0 +1,24 @@
+{
+    "name": "codecollector/Codecollector",
+    "type": "library",
+    "description": "Burn after reading",
+    "keywords": ["code","collector"],
+    "homepage": "https://github.com/code-honey/codecollector",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dawson Richey",
+            "email": "info.codehoney@gmail.com",
+            "homepage": "https://www.code-collector.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": { "codecollector\\Codecollector\\": "src/Codecollector"}
+    }
+
+}
