@@ -1,5 +1,5 @@
 {
-    "name": "codecollector/Codecollector",
+    "name": "codecollector/codecollector",
     "type": "library",
     "description": "Burn after reading",
     "keywords": ["code","collector"],
